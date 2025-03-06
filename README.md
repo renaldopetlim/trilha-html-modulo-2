@@ -35,13 +35,11 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 3. **Menu** e **Footer** padrões em todas as páginas.
 
 ### Sobre a clínica
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um texto falando sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+1. Em **Content** um texto falando sobre a clínica.
+2. **Menu** e **Footer** padrões em todas as páginas.
 
 ### Horário de Atendimento
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+1. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
 
 |Serviços |Segunda a Sexta | Sábados | Feriados |
 |---|---|---|---|
