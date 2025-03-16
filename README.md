@@ -50,11 +50,10 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 |Oftalmologia | 08h - 19h  | 08h - 18h | - |
 |||||
 
-3. **Menu** e **Footer** padrões em todas as páginas.
+2. **Menu** e **Footer** padrões em todas as páginas.
 
 ### Contato
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** deve ter:
+1. Em **Content** deve ter:
     - Os telefones de contato (celular e whatsapp)
     - Endereço completo da clínica
     - Um Iframe com o Google Maps apontando o endereço da clínica
@@ -65,7 +64,7 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
         - Mensagem (textarea)
         - Botões de envias e limpar formulário
 
-3. **Menu** e **Footer** padrões em todas as páginas.
+2. **Menu** e **Footer** padrões em todas as páginas.
 
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
 
